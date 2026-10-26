@@ -1,4 +1,4 @@
-# Clean Code: TODO-приложение
+# Clean Code: TODO-приложение (TBD)
 
 Учебный репозиторий для задания [«Clean Code»](https://github.com/rolling-scopes-school/tasks/blob/master/fullstack-engineering/tasks/clean-code/README.md) курса RS School Fullstack Engineering.
 
